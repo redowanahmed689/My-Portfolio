@@ -77,18 +77,18 @@ h1{
     color: rgb(63, 62, 62);
 }
 .bg-1{
-    background-image: url("./images/top-banner.png");
+    background-image: url(./images/top-banner.png);
     margin: 0px;
     background-repeat: no-repeat;
   
 }
 .bg-2{
-    background-image: url("./images/dream-bg.png");
+    background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
 }
 .bg-3{
-    background-image: url("./images/exp-bg.png");
+    background-image: url(./images/exp-bg.png);
     background-repeat: no-repeat;
 }
